@@ -1,15 +1,4 @@
 
-# jsunconference.de
+# moved
 
-The site for the JavaScript Unconference
-
-
-Edit the jade, not the generated html
-
-
-Generate the site:
-
-```
-make clean
-make
-```
+## moved to [https://github.com/jsunconf](https://github.com/jsunconf)
