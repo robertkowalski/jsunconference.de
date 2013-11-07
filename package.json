@@ -1,8 +1,0 @@
-{
-  "name": "jsunconference.de",
-  "private": true,
-  "version": "0.0.0",
-  "dependencies": {
-    "jade": "0.28.1"
-  }
-}
